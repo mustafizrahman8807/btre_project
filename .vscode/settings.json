@@ -1,0 +1,16 @@
+
+// {
+//     "folders": [
+//      {
+//       "path": "."
+//      }
+//     ],
+//     "settings": {
+//      "python.terminal.activateEnvInCurrentTerminal": true,
+//      "python.defaultInterpreterPath": "Users/HP/Desktop/Tutorials in Mali/dev_python/btre_project/venv/Scripts/python"
+//     }
+//    }
+
+   {
+       "python.pythonPath": "${workspaceFolder}/venv/Scripts/python"
+   }
