@@ -12,5 +12,5 @@
 //    }
 
    {
-       "python.pythonPath": "${workspaceFolder}/venv/Scripts/python"
+    "python.pythonPath": "${workspaceFolder}/venv/Scripts/python"
    }
